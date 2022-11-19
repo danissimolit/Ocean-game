@@ -1,0 +1,12 @@
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\bin\Debug\net5.0\OceanLibrary.deps.json
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\bin\Debug\net5.0\OceanLibrary.dll
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\bin\Debug\net5.0\OceanLibrary.pdb
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.csproj.AssemblyReference.cache
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.AssemblyInfoInputs.cache
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.AssemblyInfo.cs
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.dll
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\refint\OceanLibrary.dll
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\OceanLibrary.pdb
+C:\Users\38095\source\repos\C#\OOP_kursova\OceanLibrary\obj\Debug\net5.0\ref\OceanLibrary.dll

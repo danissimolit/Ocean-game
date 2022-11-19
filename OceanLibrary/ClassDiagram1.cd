@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanLibrary.Bonus" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Cell" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAoAgAAhAAgAAAAIAAAgAQGADIIAASAQIgAAAAAAA=</HashCode>
+      <FileName>Cells\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.MainPredator" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAEIAAFAAgAAAAAAAAAgAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\MainPredator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Obstacle" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Predator" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAAFAAgAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Predator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Prey" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Cells\Prey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.WrongAmountInput" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\WrongAmountInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Coordinate" Collapsed="true">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Coordinate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanLibrary.Ocean" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAYMAAERICQhCARIFAEAiACEABggBgCACAARQgA=</HashCode>
+      <FileName>Ocean.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OceanLibrary.Rand" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Rand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="OceanLibrary.Constants" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIIAIBCACgSAAEQCxAQAQgAI4AAAABIAAARQgBAAWAg=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="OceanLibrary.IInput" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAIAAAAAAEIAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IInput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OceanLibrary.IOcean" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIEAAAAICQBAARIAAEAAACAAAAgAACACAABQAA=</HashCode>
+      <FileName>Interfaces\IOcean.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OceanLibrary.IOutput" Collapsed="true">
+    <Position X="12" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQAAAAAgAAAAJAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Interfaces\IOutput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
